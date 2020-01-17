@@ -1,5 +1,5 @@
 #!/bin/sh
-ssh pramod@192.168.0.234 <<EOF
+ssh pramod@192.168.0.224 <<EOF
  cd ~/node-app
  git pull
  npm install
